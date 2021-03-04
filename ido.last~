@@ -1,0 +1,63 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/samarth/Projects/Dev/" . "social-api/")
+ ("/home/samarth/Projects/" . "Dev/")
+ ("/home/samarth/secondbrain/class10/socials/" . "history/")
+ ("/home/samarth/secondbrain/class10/" . "socials/")
+ ("/home/samarth/secondbrain/" . "class10/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/samarth/.emacs.d/"
+ "/home/samarth/Projects/Dev/social-api/"
+ "/home/samarth/.config/doom/"
+ "/home/samarth/Projects/Dev/zedway/"
+ "/home/samarth/secondbrain/class10/socials/history/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "restclient"
+ "index.js"
+ "init.el"
+ "README.md"
+ "ch1.org"
+ "ch1.html"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/samarth/.emacs.d/auto-save-list/" (24622 22486 414921 272000) "./" ".saves-6966-archlinux-box~" "../")
+
+ ("/home/samarth/.emacs.d/" (24622 22489 494921 185000) "evil/" ".cache/" "./" "nano/" "places" "init.el" "recentf~" "auto-save-list/" "ido.last" "ido.last~" "init.el~" "../" "recentf" "projectile-bookmarks.eld" ".local/" "elpa/" ".lsp-session-v1")
+
+ ("/home/samarth/" (24622 22510 431587 265000) ".cargo/" ".vimrc" ".notes" ".mussort-cache" ".zshrc-backup" ".dmenu/" ".tmux/" ".zsh_history" ".Xresources" ".backups/" "secondbrain/" ".pki/" ".gnupg/" "org/" ".cache/" "./" ".scripts/" ".python_history" ".themes/" "bin/" "Postman/" "out.bin" "Maildir/" ".gnome/" "Projects/" ".bash_logout" ".Xauthority" ".xmonad_my/" "VirtualBox VMs/" "go/" "refind-black/" ".mozilla/" "recon.yuv" ".rustup/" ".profile" "l.el" ".tmux.conf" ".zsh_profile" ".jgmenu-lockfile" "Pictures/" ".atom/" ".vscode-oss/" ".zoom/" ".xinitrc" ".npm/" ".xonotic/" ".Xdefaults" ".nano-savehist" "Videos/" ".emacs_anywhere/" ".vim_session" ".xfiles/" ".ncpamixer.conf" ".newsboat/" ".scratch/" ".gnome2/" ".dmrc" ".yarnrc" ".viminfo" ".zprofile" ".pulse-cookie" ".vim/" ".w3m/" ".steam/" "txtrec" ".thumbnails/" "Downloads/" ".lesshst" "../" "startpage/" ".gitconfig" ".ssh/" ".gtkrc-2.0" "Desktop/" ".bash_history" ".zhistory" ".pylint.d/" ".config/" ".zcompdump" ".steampid" "scratchthumbs.db" "Documents/" ".wget-hsts" ".fonts/" ".node_repl_history" "Books/" ".nano-recentf" ".cmake/" ".xsession-errors.old" ".zsh/" ".p10k.zsh" "Scratch/" ".psql_history" "Music/" ".xinitrc-backup" ".zshrc" ".local/" ".moc/" ".icons/" ".bash_profile" ".dotfiles/" ".password-store/" "opt/" ".emacs.d/" ".bashrc" ".xprofile" ".yarn/" ".bin/" "20210108._domainkey.samarthkulshrestha.tech" ".bashrc-backup" ".xsession-errors" "wallpapers/" ".xmonad/")
+
+ ("/home/samarth/Projects/Dev/social-api/routes/" (24617 10970 972403 578000) "./" "../" "auth.js" "post.js" "verifyUser.js")
+
+ ("/home/samarth/Projects/Dev/social-api/" (24609 11369 767698 287000) "yarn.lock" "./" "vercel.json" "index.js" "node_modules/" ".env" "../" "package.json" "restclient" "routes/" ".git/" ".gitignore" "validation.js" "model/")
+
+ ("/home/samarth/Projects/Dev/" (24614 36624 332366 817000) "game-of-life/" "social-api/" "chat-app/" "./" "nocial-next/" "samarth-kulshrestha/" "journal/" "URS/" "zedway-pro/" "samarth/" "../" "scraper/" "spacex-launches/" "twitterScrape/")
+
+ ("/home/samarth/Projects/" (24614 27844 35703 322000) "game-of-life/" "bootstrap-studio-key" "stuti/" "./" "Designs/" "Dev/" "../" "ideas.md")
+
+ ("/home/samarth/.config/" (24615 39145 625907 456000) "MangoHud/" "neofetch/" "viewnior/" "Spotify-AdKiller/" "alacritty/" "evolution/" "gtk-2.0/" "zsh/" "procps/" "zoomus.conf" "discord/" "sshget/" "geary/" "eww/" "kritadisplayrc" "BraveSoftware/" "code-oss/" "discocss/" "AllToMP3/" "RawTherapee/" "keepassxc/" "ibus/" "./" "awesome/" "cef_user_data/" "mpv/" "Postman/" "GIMP/" "lead/" "Atom/" "qutebrowser/" "flashfocus/" "pulse/" "bstudio/" "nu/" "QtProject.conf" "google-chrome/" "dragonplayerrc" "deadbeef/" "bspwm/" "coc/" "nextjs-nodejs/" "Unknown Organization/" "supertuxkart/" "ncpamixer.conf" "easytag/" "sxhkd/" "jgmenu/" "castero/" "lf/" "tint2/" "Bootstrap Studio/" "picom/" "termite/" "ncspot/" "ncmpcpp/" "modem-manager-gui/" "systemd/" "GravitDesigner/" "inkscape/" "Code - OSS/" "spacefm/" "amfora/" "bat/" "starship.toml" "wall.png" "vifm/" "qalculate/" "xfce4/" "broot/" "fontconfig/" "Ankama/" "polybar/" "nemo/" "xmms2/" "libreoffice/" "darktable/" "spicetify/" "../" "zathura/" "kritarc" "nnn/" "htop/" "browsh/" "mpd/" "Dofus Retro/" "UltiSnips/" "geany/" "VirtualBox/" "instantos/" "Ankama Launcher/" "qtile/" "fish/" "menus/" "Electron/" "openbox/" "transmission/" "calcurse/" "MongoDB Compass/" "wal/" "mimeapps.list" "lxqt/" "fontforge/" "xob/" "zaap/" "spotify/" "kazam/" "nvim/" "MusicBrainz/" "instant-lyrics/" "i3lock/" "dconf/" "BetterDiscord/" "pavucontrol.ini" "gravit/" "goa-1.0/" "kitty/" "gtk-3.0/" "vlc/" "xmobar/" "Thunar/" "mu4e/" "Kingsoft/" "news-flash/" "rofi/" "gtk-4.0/" "dunst/" "bpytop/" "obs-studio/" "Clementine/" "doom/" "vivaldi/" "yarn/" "lfm/" "ranger/" "configstore/" "mc/" "gconf/" "nitrogen/" "Trolltech.conf" "gcloud/")
+
+ ("/home/samarth/.config/doom/" (24617 846 768153 596000) ".custom.el" "./" "flycheck_init.el" "init.el" "themes/" "../" "logo.svg" "logo.png" "config.el" "custom.el" "packages.el" "misc/")
+
+ ("/home/samarth/Projects/Dev/zedway/" (24537 43797 803745 782000) "yarn.lock" "./" "node_modules/" "../" "package.json" "src/" "README.md" ".git/" ".gitignore" "public/")
+
+ ("/home/samarth/secondbrain/class10/socials/history/" (24533 62612 633610 80000) "ch1.html" "./" "../" "ch1.org")
+
+ ("/home/samarth/secondbrain/class10/socials/" (24523 38415 266182 897000) "./" "civics/" "../" "history/")
+
+ ("/home/samarth/secondbrain/class10/" (24523 38382 489517 143000) "./" "socials/" "../")
+
+ ("/home/samarth/secondbrain/" (24523 38368 42850 881000) "./" "journal.org" "recipies.org" "20201203151424-hello.org" "class10/" "../" ".uni-units" "README.md" ".git/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

@@ -1,0 +1,1 @@
+("~/secondbrain/" "~/Projects/Dev/journal/" "~/.emacs.d/nano/" "~/Projects/Dev/social-api/")
